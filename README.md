@@ -28,6 +28,7 @@ This project aims to predict house prices based on features such as the number o
 Contributions are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ### Output
+
 ![WhatsApp Image 2024-05-15 at 00 04 57_595a1224](https://github.com/kunalakrishna12/Creating-a-House-Price-Prediction-Application/assets/64822404/dc19ee71-9a0f-48d0-aa25-61b1a184fede)
 
 Mean Squared Error: 74009218.99433784
